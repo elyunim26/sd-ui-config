@@ -1,9 +1,9 @@
 {
     "samples_save": true,
     "samples_format": "png",
-    "samples_filename_pattern": "",
+    "samples_filename_pattern": "[model_name]_[seed]",
     "save_images_add_number": true,
-    "grid_save": true,
+    "grid_save": false,
     "grid_format": "png",
     "grid_extended_filename": false,
     "grid_only_if_multiple": true,
