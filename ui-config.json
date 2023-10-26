@@ -827,7 +827,7 @@
     "modelmerger/Copy metadata from merged models/value": true,
     "modelmerger/Read metadata from selected checkpoints/visible": true,
     "customscript/!adetailer.py/txt2img/Enable ADetailer/visible": true,
-    "customscript/!adetailer.py/txt2img/Enable ADetailer/value": false,
+    "customscript/!adetailer.py/txt2img/Enable ADetailer/value": true,
     "customscript/!adetailer.py/txt2img/Skip img2img/value": false,
     "txt2img/ADetailer model/visible": true,
     "txt2img/ADetailer model/value": "face_yolov8n.pt",
